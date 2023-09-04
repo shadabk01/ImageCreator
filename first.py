@@ -5,7 +5,7 @@ from PIL import Image
 
 # assigning API KEY to the variable
 
-openai.api_key = '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'
+openai.api_key = 'sk-*********'
 
 
 # function for text-to-image generation
